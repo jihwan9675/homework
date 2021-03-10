@@ -8,7 +8,7 @@ import os
 class Databases():
     def __init__(self): # password 변경 필요
         self.db = psycopg2.connect(host='localhost', 
-                                   dbname='tests',
+                                   dbname='t',
                                    user='postgres',
                                    password='1234',
                                    port=5432)
