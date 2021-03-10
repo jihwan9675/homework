@@ -8,7 +8,7 @@ api = Api(app, version='1.0', title='환자 정보 조회', description='기술�
 @api.doc(params={'id': 'An ID'})
 class Person(Resource):
     def get(self, id):
-        return {}
+        return {id:1}
 
 
 
