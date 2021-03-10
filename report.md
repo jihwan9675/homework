@@ -51,7 +51,7 @@
     pip3 install psycopg2
     ```
 
-    ![LineWalks%20%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6%20-%20%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B5%E1%84%92%E1%85%AA%E1%86%AB%203ac1e6ac865b4b3e8897c506bc0f1fc4/Untitled.png](LineWalks%20%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6%20-%20%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B5%E1%84%92%E1%85%AA%E1%86%AB%203ac1e6ac865b4b3e8897c506bc0f1fc4/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/69146451/110596792-140e0100-81c3-11eb-8735-4c976e35fd12.png)
 
 ## 설계
 
@@ -76,7 +76,7 @@
 3. death
     - person_id (PK, 사망자)
 
-![LineWalks%20%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6%20-%20%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B5%E1%84%92%E1%85%AA%E1%86%AB%203ac1e6ac865b4b3e8897c506bc0f1fc4/Untitled%201.png](LineWalks%20%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6%20-%20%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B5%E1%84%92%E1%85%AA%E1%86%AB%203ac1e6ac865b4b3e8897c506bc0f1fc4/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/69146451/110596795-153f2e00-81c3-11eb-8982-63e295eafba7.png)
 
 ### REST API 설계
 
