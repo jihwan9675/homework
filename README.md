@@ -22,6 +22,7 @@ homework
 
 ### REST API
 총 10개의 get 메서드가 있다.
+![sss1](https://user-images.githubusercontent.com/69146451/110596319-7ca8ae00-81c2-11eb-8cae-b5c12b647bdb.PNG)
 1. /person
     - 총 환자 수
     - modules.getdata.person_count()로 구현    
