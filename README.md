@@ -1,4 +1,18 @@
 # homework
+### 디렉토리 구조
+homework
+ - data
+   - concept.csv
+   - condition_occurrence.csv
+   - death.csv
+   - drug_exposure.csv
+   - person.csv
+   - visit_occurrence.csv
+ - modules
+   - createDB.py
+   - Databases.py
+   - getdata.py
+ - run.py
 
 ### 실행방법
 1. postgreSQL에서 tests DB를 생성한다.
